@@ -1,0 +1,226 @@
+,Date,User,Tweet
+0,2022-11-07 12:30:06+00:00,EuRemote,"Gitlab is #hiring a Paralegal (Employment)
+Remote: Worldwide
+Excellent perks!
+#remotejobseurope #euremote #remotework #remotejob #workfromhome #paralegal #employmentlaw #remotehrjobs #remotelegaljobs
+Follow the link to apply &gt; https://t.co/oIpHGGQ4qY https://t.co/vGRQgK7Zhf"
+1,2022-11-07 12:13:18+00:00,da_eh,"@simonbs hey, i was just wondering if there is any ""builtin"" support to syntax highlight git diffs in Runestone. I would like to build a personal tool to work with GitLab Merge Requests and know that GitHub is already using your framework. [1/2]"
+2,2022-11-07 12:03:16+00:00,_ichai,"@gitlab level of toxicity 😄
+
+deploy_review:
+  environment:
+    name: review/$CI_COMMIT_REF_SLUG
+
+stop_review:
+  environment:
+    name: review/${CI_COMMIT_REF_SLUG} https://t.co/jNPHt7wUMJ"
+3,2022-11-07 12:00:07+00:00,AllExecJobs,WANTED: Quality Engineering Manager at @gitlab (remote) https://t.co/vum08jCaoJ
+4,2022-11-07 11:59:30+00:00,datadili,GitLab Inc. is up 3.46% in the pre-market $GTLB
+5,2022-11-07 11:50:02+00:00,AllExecJobs,WANTED: Quality Engineering Manager at @gitlab (remote) https://t.co/FtM6k12hi2
+6,2022-11-07 11:46:12+00:00,leetickett,"We are arranging the first @gitlab Contributor Days event- Friday, January 27th - Saturday, January 28th in either Belgium or the UK. Please complete the following form if you would like to attend: https://t.co/YawDVmrcKL"
+7,2022-11-07 11:44:11+00:00,moodygreens,"@dustinmoris We also run a private gitlab server. Never had that issue for merge requests, other things might slow down from time to time but I always thought that could be because of insufficient resources or something like that"
+8,2022-11-07 11:38:34+00:00,lsymds,@dustinmoris It gets worse and worse every time I try to use it. My last place used GitLab and I'm pretty sure it reached a point where there was an hour or two of downtime every single working week.
+9,2022-11-07 11:36:59+00:00,dustinmoris,"Opening a merge request in GitLab, watching spinner for 10 seconds...
+
+Ok, let's grab a quick coffee.
+
+5 min back at my desk, still spinning.
+
+GitLab reminds me of downloading a movie in the early 2000s where it took 10 days to rip a 745MB movie via eDonkey. https://t.co/F4QcrU91zn"
+10,2022-11-07 11:34:04+00:00,soiqbot,"How to deploy 3rd party library in remote gitlab maven repo?
+https://t.co/G4HwCDKA5b
+#java #maven #gitlab"
+11,2022-11-07 11:26:45+00:00,KevSlashNull,@MvRemmerden @gitlab Congrats! 🎊
+12,2022-11-07 11:14:35+00:00,_mknet_,"@javahippie From my perspective, it would be enough hosting several gitlab, gittea or gogs instances including Open ID integrations."
+13,2022-11-07 10:50:54+00:00,sagaro,When GitHub was bought by Microsoft there was similar outrage and there were a minority who decided to ditch GitHub and go to gitlab etc. But then GitHub improved a lot of features and now is probably the most valuable code + social network. So many blogs etc exists on github
+14,2022-11-07 10:44:17+00:00,JohnNol45912554,"We will configure a CI/CD pipeline with GitLab CI/CD and execute Selenium testing over it through LambdaTest, an online Selenium Grid of 3000+ real browsers.
+#Pipeline #testing 
+https://t.co/8raGMDJ0x8"
+15,2022-11-07 10:30:59+00:00,nextcloudupdate,New release of GitLab integration (1.0.10) for #Nextcloud https://t.co/OYF2xwQlJc
+16,2022-11-07 10:22:12+00:00,amosuibk,"I'm hiring a remote Senior Mobile Engineer (iOS)
+
+Salary: $5000 monthly
+
+Must-have requirements
+Swift (iOS) 4+ years
+MVVM 4+ years
+
+Nice to haves:
+GitLab 4+ years
+Xcode Server 2+ years
+
+DM your CV link #RT"
+17,2022-11-07 10:13:38+00:00,mfornasa,"Core technologies will be my usual suspects: Kubernetes (all of them!), AWS and GCP, serverless tech, Vault &amp; Terraform, GitHub, Gitlab.
+
+Get in contact if you want to have a chat!
+
+More info on my website: https://t.co/1o2MBaMgJD"
+18,2022-11-07 10:13:03+00:00,DailyGitRepo,"Daily Git Repo, 11/6/22: pdfgrep / pdfgrep · GitLab https://t.co/3mgLSuvsjs"
+19,2022-11-07 10:08:04+00:00,_Codito_,@MvRemmerden @gitlab Congratulations! Good luck 🙂
+20,2022-11-07 10:05:57+00:00,IrjeanL,GitLab CI CD Tutorial for Beginners [Crash Course] https://t.co/EVFtcgNoWb via @YouTube
+21,2022-11-07 10:05:27+00:00,IrjeanL,GitLab CI CD Tutorial for Beginners [Crash Course] https://t.co/EVFtcgvfI3 via @YouTube
+22,2022-11-07 10:05:18+00:00,MvRemmerden,"After 3 years as Product Design Manager, I've just been promoted to Senior Manager of Product Design at @GitLab.
+
+I'm extremely excited to continue working with this amazingly talented group of people and try to bring forward the one DevSecOps platform vision. 🎉"
+23,2022-11-07 09:44:25+00:00,rcastellanosm,"The second part of Full CI/CD workflow with  @skaffolddev  and @gitlab  for your application is here. 
+
+I hope you founding valuable and enjoy reading it, as much as i when writing it on @hashnode  
+
+Next week, the last delivery of the series.
+
+https://t.co/LkCo4SbfUk"
+24,2022-11-07 09:25:50+00:00,gitlabstatus,"No material updates to report. We were able to determine the error is occurring within a single edge location of our CDN (SJC).
+ 
+Details in: https://t.co/bAcBhCGRct https://t.co/FRkUs3nNMU"
+25,2022-11-07 09:08:46+00:00,jouschcom,@xitnelat @Cybersmog I‘m actually thinking about a centralized way to to this automatically. You define points to monitor and the gitlab ci adds the monitoring points to the monitoring system via api
+26,2022-11-07 09:01:27+00:00,9cv9Tech,"HCMC. PHP Laravel God. 5 year Experience. Good Salary to hire, email hello@9cv9.com now.
+
+Programing language: PHP - Laravel, Javascript, HTML, CSS - Bootstrap Databases: Mysql, Postgresql
+OS: Window, Ubuntu, Mac
+Source Version Control: Git - Gitlab, Source Tree, Bitbucket https://t.co/XtuKeEHLPm"
+27,2022-11-07 08:52:00+00:00,leetickett,@gitlab thanks for the new #swag 💙 https://t.co/brO4FGn2yx
+28,2022-11-07 08:41:13+00:00,since1903bjk,"Start a week
+#startup #gitlab @gitlab #zoom #coding with @reactjs @JavaScript @code https://t.co/zBMN9zJPvz"
+29,2022-11-07 08:24:05+00:00,fineshift_s,"DevSecOps and security in DevOps, in general, continue to be a tricky balance for many teams 
+
+https://t.co/cp5e18sDhi 
+
+#gitlab #security #devsecops #fineshift #consulting #practices"
+30,2022-11-07 08:22:32+00:00,HeyderAndrade,"I've seen @wcbowling struggling to make the @gitlab sec team able to reproduce his findings. This PoC would make it easier for similar findings.
+
+#exploit #cve-2022-2992 https://t.co/d8P2fFfd9Q"
+31,2022-11-07 08:17:08+00:00,SaiyamPathak,@k33g_org @gitlab @github haha good one!
+32,2022-11-07 08:15:23+00:00,phpsince98,"@christophrumpel Will continue to move our in-house FW (20+ packages) to (fully typed) PHP 8.0 language level with the help of @rectorphp, @phpunit  and @gitlab CI, now that 7.4 will be EOL soon"
+33,2022-11-07 07:57:50+00:00,jouschcom,"@Cybersmog We use the default integration. Some of the notifications are in the project channels, and some of them in our general ""#gitlab"" channel."
+34,2022-11-07 07:55:56+00:00,k33g_org,"If you're exhausted by Twitter, Mastodon, FaceBook, Linkedin, ... The @gitlab issues are the way (it works with @github, too, but without the subgroups).
+
+Everything should start with an issue 😛 https://t.co/HuVbHtagrD"
+35,2022-11-07 07:48:50+00:00,redwaysec,"We've put some piece together and wrote a #PoC that #exploit the #CVE-2022-2992 (Gitlab Remote Command Execution via Github import) .
+
+https://t.co/SxWWZksHPy https://t.co/QZbStd9OFL"
+36,2022-11-07 07:31:55+00:00,Cybersmog,Are you using GitLab and post automated infos about deployments/pipelines to Slack? Do you use the „Slack notifications“ integration or custom apps? Where do you post the notifications? E.g. to a dedicated deployments channel or to customer specific channels? Thx for any input!
+37,2022-11-07 07:29:39+00:00,idvoretskyi,"Some fresh stuff.
+
+Now it's published on some @gitlab self-hosted instances and on @Bitbucket. Action required. https://t.co/T3oQQiInjS https://t.co/HEyChqK4WJ"
+38,2022-11-07 07:06:15+00:00,NRatnaweera,"What a cool talk by @ajdstein on pydeck (https://t.co/Tb7U2eR8aX for python) https://t.co/0PLYcWEKlI. But where is Pydeck's source code? I can't find it on Github, Gitlab..."
+39,2022-11-07 06:33:17+00:00,YUNGBLACKLUNG,"@rakyll Salesforce, they’ve been requesting it on gitlab for years"
+40,2022-11-07 06:25:04+00:00,SeedVEVO,proud puppy-moder on work gitlab uwu https://t.co/jYTujZ3Kol
+41,2022-11-07 06:04:58+00:00,RubygemsN,gitlab-fog-azure-rm (1.4.0): This is a stripped-down fork of fog-azure-rm that enables Azure Blob Storage to be used with Carrier https://t.co/F0Bkp9huNw
+42,2022-11-07 05:44:33+00:00,PopeyesView,"lol...
+
+https://t.co/iGeSsY3bwl
+
+Print Your Code for review by #ElonMusk .
+Most code is reviewed in Github, Gitlab or somewhere online, but that is too efficient. 
+Why not print out your code and submit the printout by fax for review by Elon Musk personally!
+#CodeReview"
+43,2022-11-07 05:41:03+00:00,Yashe_kid,@Dominique_TIP @Guugu_lethu Yes gitlab😭😭😭
+44,2022-11-07 05:36:24+00:00,test_tricks,"Review our GitLab vs GitHub: Key differences &amp; Similarities
+
+#techtips #investigate #explore #check #git #focus #developer #readmore #github #gitlab #checkout  https://t.co/MgjGsaK5l0"
+45,2022-11-07 05:31:32+00:00,Skakruk,"@dimko1 @gitlab @dzaporozhets Some more links to block 
+https://t.co/1USNJFFFss 
+https://t.co/A7dCaaEQqj"
+46,2022-11-07 05:14:00+00:00,mtngsio_bot,#gitlab #digital_experience new meeting from 4 Nov 2022 published 🎉 #OpenMeetings https://t.co/WDeRelrqXj
+47,2022-11-07 04:38:58+00:00,Catena_Fund,Wonder how many Crypto Projects are using @gitlab considering the @CIA via INQTEL (their VC arm) have a position in https://t.co/7YY6I18mh3
+48,2022-11-07 04:30:00+00:00,razorops,"RAZOROPS is the best CI/CD tool since the platform can support, run tests, staging and AWS deployment, all within the pipeline. p your pipeline within 30 minutes through gitlab.
+Try Razorops for FREE!!!!
+https://t.co/4ZJsMxiG1b 
+#razorops #gitlab #cicd #cicdpiepline #integrates"
+49,2022-11-07 04:28:12+00:00,gorniv,@benkigera @adamlyttleapps I use Gitlab ci/cd runner on local machine + fastalne. Codemagic is also good.
+50,2022-11-07 04:25:37+00:00,gitlabstatus,No material updates to report. We are working with our CDN provider to fully mitigate the issue. Details in: https://t.co/bAcBhCGRct https://t.co/FRkUs3nNMU
+51,2022-11-07 04:17:07+00:00,dimko1,Amazing! Project is gone! Thank you @gitlab and @dzaporozhets! https://t.co/OOwgXi0f2V
+52,2022-11-07 04:00:30+00:00,ndbroadbent,"CircleCI is so fast! Everything starts almost instantly after I push code, and it only takes a few seconds to pull the Docker image and start running steps. GitLab CI was taking about 1-2 minutes before it even started the container"
+53,2022-11-07 03:46:37+00:00,ndbroadbent,"I found a way to save even more time in my CircleCI config - Don't checkout the git repo right away. Manually download files to calculate the checksum, and skip the job if the cache exists. (e.g. bundle install)
+
+I could have done this on GitLab CI too with 'GIT_STRATEGY: none'"
+54,2022-11-07 03:41:37+00:00,bsv_is_bitcoin,@gitlab scroll on mobile is now broken.  So the 1/10 usability your sh*t system had is now gone
+55,2022-11-07 03:35:02+00:00,BanyanSecurity,"Please join this week's live #zerotrust demo➡️every Wednesday at 10 AM PDT. Register soon! https://t.co/yj0HXq6iZj 
+
+One-click access to SSH/RDP servers, #Kubernetes, databases, and hosted applications like #GitLab, Jenkins, Jira, and CLI
+
+#DevOps #ztna #infosec https://t.co/Blw4jCiwsH"
+56,2022-11-07 03:11:44+00:00,david_perell,"@businessbarista 1) The Great CEO Within (book)
+2) The Manager’s Handbook (book)
+3) Delian’s essays on Keith Rabois
+4) High Output Management
+5) Anything on the GitLab blog
+
+I know you also used the Traction method at Morning Brew, which I’ve heard good things about but haven’t tried myself."
+57,2022-11-07 01:03:23+00:00,hael_mj,"@HackingLZ Funny you mention this....I just had an incident where a developer built an entire company project in his personal account on a different source control(GitHub) from what the company uses(GitLab).
+
+We found out when it was about to go live and we needed to sort out the configs🙂"
+58,2022-11-07 00:56:34+00:00,hael_mj,@HackingLZ Do you know if there is an equivalent of this for GitLab? I tried searching but couldn't find any.
+59,2022-11-07 00:32:53+00:00,Tirieru,"and, well, both gitlab and bitbucket are not necessarily that much better when it comes to UI/UX"
+60,2022-11-07 00:28:54+00:00,WizDev_,"Open source means anyone can view and use the code to contribute to the original project or create something else. 
+Numerous open-source projects are accessible on well-known hosting websites like GitHub, GitLab, or SourceForge (opens in a new tab) (opens in a new tab)"
+61,2022-11-07 00:24:54+00:00,BTDenominator,Will GitLab 20x? This 70% Revenue Growth Stock Provides Software To Build Software ($GTLB analysis) https://t.co/amYdbeae2S
+62,2022-11-07 00:00:50+00:00,EllevateNtwk,Qatalog and GitLab study reveals pervasive culture of digital presenteeism https://t.co/tHrskqkev4
+63,2022-11-06 23:19:00+00:00,founding,"💰 @unitoio (FI Montreal), a platform for managing disparate #SaaS apps, raises $20M #SeriesB→ https://t.co/IA8fzEaiUv  Congrats CEO @marcboscher &amp; team!
+
+#Unito eases SaaS fragmentation by connecting #apps like GitLab, HubSpot, Google, ClickUp, Salesforce, Wrike &amp; many more https://t.co/CszCPxZ2Sm"
+64,2022-11-06 23:17:10+00:00,dnsmichi,"@editingemily Adjusting plans and moving on to GitLab was 💯 for mental health and my career goals. I'm not an OSS maintainer anymore (challenging topic for me), and am slowly working my path as contributor again."
+65,2022-11-06 22:49:13+00:00,ndbroadbent,"I set up a proper dependency graph in GitLab CI using ""needs: []"". I used to split them up into three stages, but now jobs can start running as soon as all their dependencies are met. Should save a few minutes! https://t.co/IA4UL9SIjf"
+66,2022-11-06 22:38:53+00:00,gitlabstatus,We've determined that the issue affects only a small percentage of requests and verified that all of GitLab's systems are operational. We're following up with our CDN provider to investigate further and are monitoring to ensure we don't see an increase ... https://t.co/FRkUs3nNMU
+67,2022-11-06 22:30:10+00:00,dzaporozhets,@dimko1 @gitlab Its 404 now
+68,2022-11-06 22:21:54+00:00,gitlabstatus,We're currently investigating reports of users receiving intermittent 520 errors via Cloudflare on GitLab SaaS. Details in https://t.co/bAcBhCGRct. https://t.co/FRkUs3nNMU
+69,2022-11-06 22:16:31+00:00,alt_tag,"@bettersafetynet My biggest frustration at the moment is getting static analysis (and eventually other style/doc analysis) stuff to work in GitLab. 
+
+Soon to be followed by the even more daunting task of getting people to care enough to use it."
+70,2022-11-06 22:12:48+00:00,idvoretskyi,Now it's gone. Many thanks to our friends from @gitlab! https://t.co/7LvN8V3nAf https://t.co/bvzRnq1vQO
+71,2022-11-06 21:55:42+00:00,liljenstolpe,"Hey @gitlab, hope you do something about this, immediately, if not sooner. https://t.co/ZcAfPaQWVe"
+72,2022-11-06 21:29:28+00:00,dnsmichi,"@adumansr @eddiejaoude @HashiCorp @Docker @gitpod You are welcome :) Do not feel stressed to learn everything at once - often these can be practiced by contributing to OSS. Good projects provide contribution docs and environments :) 
+
+Example for @gitlab in https://t.co/zHcKPy5PIV 🌱"
+73,2022-11-06 21:23:47+00:00,fmtprintlns,@ludictony @BartoszMilewski @gitlab what the bs are u talking about?
+74,2022-11-06 21:11:59+00:00,VGozhenko,"@gitlab hey hey, wake up!"
+75,2022-11-06 21:07:50+00:00,ahmadalfy,@mhaleem_sherbo @HO_BA Will share some screenshots after I sync the data. Currently I wrote a driver that works with Gitlab APIs only
+76,2022-11-06 21:06:22+00:00,idvoretskyi,"Something we've reported to GitLab directly already, however, the community support in the reports will be super-useful.
+
+Basically, more details here - https://t.co/bHsqVJXZf8 https://t.co/ygskHQZOwH"
+77,2022-11-06 21:02:08+00:00,himalayasapp,"🙂 GitLab is hiring a remote Director, Corporate Events  #GitLab #remotework #remotejob #workfromhome #EventStrategy #EventManagement #EventMarketing #CorporateEvents #Marketing https://t.co/mtenkuJ0sV"
+78,2022-11-06 20:39:06+00:00,andyberdan,"@madgarden Looks like according to a recent ticket on gitlab, they're hitting twitter per-bot api limits (300/day), so self-hosting a moa twitter bot for yourself might be the way to go."
+79,2022-11-06 20:35:22+00:00,dnsmichi,"@adumansr @eddiejaoude When I joined an OSS project in 2009, we had a self-hosted Git server, Redmine for issue tracking, mailing lists to share Git patches.
+
+Later Gitorious, and GitLab on a public self-managed instance.
+
+Self-service workflows with forking, CI/CD, etc. made OSS contributions easier."
+80,2022-11-06 20:25:57+00:00,dmhlr,"@BartoszMilewski @gitlab FYI reshared on @LinkedIn
+https://t.co/vz8KXFyuU1"
+81,2022-11-06 20:13:03+00:00,throwawayndelet,@BartoszMilewski @gitlab This Is easily outside terms of service but Reverse engineering Is supposef to be legal
+82,2022-11-06 20:09:02+00:00,stockresearchhq,"GitLab $GTLB quarterly revenue growth rate YoY of 73.80% ranked
+
+⭐⭐⭐⭐⭐
+
+in our db. Impressive! https://t.co/hGe1kayZUu"
+83,2022-11-06 20:03:11+00:00,abhaybhargav,"DevSecOps areas to make you more hireable: 
+
+- Customizing SAST, especially with @semgrep 
+- CI/CD - Github/Gitlab/Jenkins/etc
+- DAST with @pdnuclei"
+84,2022-11-06 19:43:33+00:00,dimko1,"@dzaporozhets @gitlab Thank you, man!"
+85,2022-11-06 19:21:26+00:00,flavius_houk,"@gitlab @sytses you've mentioned in the article (https://t.co/qmWqAJwLXt) that you are ""against the violence and unlawful invasion"". Please ban the organization in the tweet. Those people are trying to do more harm to Ukraine and should not have the access to your services. https://t.co/TayqfWD6mW"
+86,2022-11-06 19:19:20+00:00,SeanWrightSec,"Some things when predicting the ""demise"" of Twitter. When GitHub was acquired by Microsoft, a lot left to GitLab. Look where GitHub is today. When Lastpass changed their licencing a lot went to Birwarden, look where Lastpass is today. It may be a different story, but unlikely."
+87,2022-11-06 19:16:22+00:00,ludictony,@BartoszMilewski @gitlab Gitlab is and was very pro russsian. I bet they provide support for russian military as well. Look what they do - helping putin from day 1. #Putin #gitlab
+88,2022-11-06 19:15:38+00:00,datarade,"Facebook should shutdown Meta research and buy Twilio, Gitlab, and Nikita Bier."
+89,2022-11-06 19:08:47+00:00,dnsmichi,"@3_Dwedar @eddiejaoude I don't think it is bad having accounts on platforms where you'd like to engage with communities, and contribute to OSS. 
+
+Do not remember when I created my GitHub account, must be 2013 to 2015. Has a long history of OSS contributions, and I'll continue since joining GitLab :)"
+90,2022-11-06 19:05:00+00:00,gitlab,"Migrating to an end-to-end platform might seem like a steep hill to climb, especially for SMBs. But migrating to a simpler, more powerful end-to-end platform is worth the journey. https://t.co/gMGo4VUTDy"
+91,2022-11-06 19:02:10+00:00,sanjaykalra,"#Startups often operate 100% #remote, tech companies @gitlab, @zapier lead the way as all-remote organizations. Can mainstream organizations-esp. those operating with physical workplaces for decades switch to all-remote? @joemckendrick #RemoteWork 
+https://t.co/6mv2ye7NQ5"
+92,2022-11-06 18:39:27+00:00,YusharthSingh,"6. Full-Stack Development Skills
+
+1. Expertise in Frontend and backend languages and technologies like HTML, CSS, JS, Python, Java, PHP, Perl, Ruby etc.
+
+2. Knowledge of DBMS, and Web Hosting Platforms.
+
+3. Version Control Systems like GitHub and GitLab"
+93,2022-11-06 18:38:23+00:00,dzaporozhets,@dimko1 @gitlab I sent a dm to @gitlab. I hope they will address it soon
+94,2022-11-06 18:34:02+00:00,Securityblog,badsectorlabs / Iscariot Suite · GitLab https://t.co/UVlznbHKKu
+95,2022-11-06 18:28:28+00:00,webknjaz,"@BarrySchachter @BartoszMilewski @gitlab Somebody should send them an MR with a banner from https://t.co/MlYmPlUJjG
+😂 #StandWithUkraine️ #StoprussianNazis #russiaisaterrorisstate #russiaIsANaziState"
+96,2022-11-06 18:22:07+00:00,balasankarc,@championswimmer We at GitLab are hiring across all departments - https://t.co/XxbQHeWv2H
+97,2022-11-06 18:19:14+00:00,NxSec,"@mattbdevaney Would love to see an article on HOW to save PowerApps in GitHub, GitLab, Azure DevOps etc for shared development?"
+98,2022-11-06 18:18:44+00:00,GeorgeTailor_,"@BartoszMilewski @gitlab The US have plans to cut muscovites from any IT international business completely, by sanctions of course. Soon enough this will not be a problem at all. Unfortunately this might take from couple of months to even half of a year or so:("
+99,2022-11-06 18:18:37+00:00,BattlestarCoder,@urAvgKarthik @adii_kris @gitlab @HasuraHQ Where!

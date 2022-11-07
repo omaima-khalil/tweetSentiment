@@ -14,4 +14,4 @@ for tweet in sntwitter.TwitterSearchScraper(query).get_items():
         tweets.append([tweet.date, tweet.user.username, tweet.content ])
 
 df= pd.DataFrame(tweets, columns=['Date', 'User', 'Tweet'])
-print(df)
+df.to_csv("tweets.csv")
